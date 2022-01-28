@@ -305,6 +305,12 @@ link of project
 Insert gif or link to demo
 
 
+https://user-images.githubusercontent.com/97509895/151506875-758a9366-99eb-4d26-85b7-5787dc8fac4f.mp4
+
+
+
+
+
 ## Running Queue Detection Model
 source '0' for webcam
 
@@ -313,7 +319,7 @@ source '0' for webcam
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/f-ate/Queue-Detection/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Advantages
